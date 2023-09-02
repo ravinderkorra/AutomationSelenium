@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-20T22:50:05 IST" name="Default suite" finished-at="2023-08-20T22:50:05 IST" duration-ms="73">
+    <groups>
+    </groups>
+    <test started-at="2023-08-20T22:50:05 IST" name="Default test" finished-at="2023-08-20T22:50:05 IST" duration-ms="73">
+      <class name="com.testng.testngBasics">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testng.testngBasics@2667f029]" started-at="2023-08-20T22:50:05 IST" name="setUp" finished-at="2023-08-20T22:50:05 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="enterUrl()[pri:0, instance:com.testng.testngBasics@2667f029]" started-at="2023-08-20T22:50:05 IST" name="enterUrl" finished-at="2023-08-20T22:50:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrl -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.testng.testngBasics@2667f029]" started-at="2023-08-20T22:50:05 IST" name="launchBrowser" finished-at="2023-08-20T22:50:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.testng.testngBasics@2667f029]" started-at="2023-08-20T22:50:05 IST" name="login" finished-at="2023-08-20T22:50:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="googleTitleTest()[pri:0, instance:com.testng.testngBasics@2667f029]" started-at="2023-08-20T22:50:05 IST" name="googleTitleTest" finished-at="2023-08-20T22:50:05 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method is-config="true" signature="logOutTest()[pri:0, instance:com.testng.testngBasics@2667f029]" started-at="2023-08-20T22:50:05 IST" name="logOutTest" finished-at="2023-08-20T22:50:05 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutTest -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.testng.testngBasics@2667f029]" started-at="2023-08-20T22:50:05 IST" name="login" finished-at="2023-08-20T22:50:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchTest()[pri:0, instance:com.testng.testngBasics@2667f029]" started-at="2023-08-20T22:50:05 IST" name="searchTest" finished-at="2023-08-20T22:50:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="logOutTest()[pri:0, instance:com.testng.testngBasics@2667f029]" started-at="2023-08-20T22:50:05 IST" name="logOutTest" finished-at="2023-08-20T22:50:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.testng.testngBasics@2667f029]" started-at="2023-08-20T22:50:05 IST" name="closeBrowser" finished-at="2023-08-20T22:50:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="deleteAllCoockies()[pri:0, instance:com.testng.testngBasics@2667f029]" started-at="2023-08-20T22:50:05 IST" name="deleteAllCoockies" finished-at="2023-08-20T22:50:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCoockies -->
+        <test-method is-config="true" signature="generateTestReport()[pri:0, instance:com.testng.testngBasics@2667f029]" started-at="2023-08-20T22:50:05 IST" name="generateTestReport" finished-at="2023-08-20T22:50:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestReport -->
+      </class> <!-- com.testng.testngBasics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
